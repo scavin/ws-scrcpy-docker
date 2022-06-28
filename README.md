@@ -26,3 +26,4 @@ docker exec ws-scrcpy adb connect android.device.ip:5555
 * https://github.com/Genymobile/scrcpy
 * https://github.com/NetrisTV/ws-scrcpy
 * https://meta.appinn.net/t/topic/33828
+* https://www.appinn.com/scrcpy-remote/  //用 iPhone 控制 Android
