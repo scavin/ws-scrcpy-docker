@@ -2,6 +2,9 @@
 
 用来在浏览器中控制 Android 设备。
 
+https://hub.docker.com/r/scavin/ws-scrcpy/  
+https://github.com/scavin/ws-scrcpy-docker/
+
 ## 使用
 
 ```
