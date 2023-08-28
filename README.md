@@ -19,7 +19,7 @@ docker exec ws-scrcpy adb connect android.device.ip:5555
 1. 安装 adb 工具套件（[SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools)）
 2. 打开开发者模式
 3. 使用 USB 连接 Android 设备，并授权
-4. 终端输入 `adb tcpip 555`
+4. 终端输入 `adb tcpip 5555`
 
 返回 `restarting in TCP mode port: 5555` 即可.  
 切换回USB模式：`adb usb`
